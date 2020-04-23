@@ -1,0 +1,4 @@
+C:\c#\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\c#\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\c#\BankAccount\BankAccount\obj\x86\Debug\BankAccount.exe
+C:\c#\BankAccount\BankAccount\obj\x86\Debug\BankAccount.pdb
